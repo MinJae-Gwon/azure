@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.e434cb052c1fcf245a9db7b52270d3f4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.a5f65c54c4478fc0b00762762b06413e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.57c6075cab120ba5cf140a7b71135832.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.483c02bdabd0980392bc4193d0dda654.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.aa010ca992ea7ad5c53477d6375b45b6.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.4cef5cfa44a2e39298821c45ef8115d6.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "리액트 메모",
+  "short_name": "메모",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "리액트로 제작한 메모입니다eeeee",
+  "background_color": "#ffffff",
+  "theme_color": "#eeeeee"
+}
